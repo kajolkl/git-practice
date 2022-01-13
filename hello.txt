@@ -1,1 +1,2 @@
 Namaste World!
+This is a practice for github
